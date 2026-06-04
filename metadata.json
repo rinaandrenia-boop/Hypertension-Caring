@@ -1,0 +1,6 @@
+{
+  "name": "HYPERCARE",
+  "description": "Aplikasi pemantauan dan pengelolaan hipertensi mandiri yang modern, bersih, dan ramah lansia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
